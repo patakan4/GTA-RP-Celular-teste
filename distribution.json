@@ -1,0 +1,32 @@
+{
+  "projectName": "Meu Server",
+  "packageName": "com.meuserver.launcher",
+  "versionHash": "1.0",
+  "servers": [
+    {
+      "id": 1,
+      "show": true,
+      "name": "Meu Server BR",
+      "address": "192.168.1.6:7777",
+      "version": "1.0",
+      "icon": "",
+      "events": [],
+      "slot": 100,
+      "bonus": false,
+      "description": "Meu servidor de SA-MP",
+      "sampVersion": "0.3.7"
+    }
+  ],
+  "cdnLauncher": "",
+  "cdnCache": "",
+  "cacheMode": [],
+  "rss": "",
+  "launcher": {
+    "appVersion": "1.0",
+    "name": "launcher",
+    "hash": "",
+    "bytes": 0,
+    "size": "0"
+  },
+  "filesContinue": []
+}
